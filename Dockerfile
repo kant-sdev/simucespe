@@ -10,12 +10,10 @@ COPY pyproject.toml README.md ./
 COPY simucespe ./simucespe
 COPY data/parsed ./data/parsed
 
-RUN python -m pip install --no-cache-dir --upgrade pip \
-    && python -m pip install --no-cache-dir .
+RUN python -m pip install --no-cache-dir .
 
 RUN mkdir -p /app/data/runtime
 
 EXPOSE 10000
 
 CMD ["simucespe-api", "--host", "0.0.0.0"]
-
