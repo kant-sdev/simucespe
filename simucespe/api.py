@@ -44,6 +44,16 @@ def create_app(
     active_simulados = ActiveSimuladoStore()
     history = HistoryStore(history_path)
 
+    @app.api_route("/", methods=["GET", "HEAD"])
+    def root() -> dict[str, str]:
+        return {
+            "name": "SimuCESPE API",
+            "status": "ok",
+            "docs": "/docs",
+            "health": "/health",
+            "provas": "/provas",
+        }
+
     @app.get("/health")
     def health() -> dict[str, str]:
         return {"status": "ok"}

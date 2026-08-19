@@ -128,7 +128,7 @@ Variaveis de ambiente recomendadas:
 
 ```text
 PORT=10000
-BACKEND_CORS_ORIGINS=https://seu-front.netlify.app
+BACKEND_CORS_ORIGINS=https://simucespe.netlify.app
 ```
 
 Health check path:

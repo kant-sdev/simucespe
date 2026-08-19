@@ -11,6 +11,14 @@ from simucespe.api import create_app
 
 
 class ApiTest(unittest.TestCase):
+    def test_root_returns_api_links(self) -> None:
+        client = TestClient(create_app())
+
+        response = client.get("/")
+
+        self.assertEqual(response.status_code, 200)
+        self.assertEqual(response.json()["docs"], "/docs")
+
     def test_full_exam_simulado_flow(self) -> None:
         with tempfile.TemporaryDirectory() as tmpdir:
             history_path = Path(tmpdir) / "history.json"

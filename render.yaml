@@ -8,5 +8,4 @@ services:
     healthCheckPath: /health
     envVars:
       - key: BACKEND_CORS_ORIGINS
-        value: https://seu-front.netlify.app
-
+        value: https://simucespe.netlify.app
