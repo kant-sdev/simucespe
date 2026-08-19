@@ -1,0 +1,12 @@
+services:
+  - type: web
+    name: simucespe-api
+    runtime: docker
+    plan: free
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /health
+    envVars:
+      - key: BACKEND_CORS_ORIGINS
+        value: https://seu-front.netlify.app
+

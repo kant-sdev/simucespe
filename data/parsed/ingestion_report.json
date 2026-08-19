@@ -1,0 +1,161 @@
+{
+  "successes": [
+    {
+      "pair_key": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "prova": "prova_gabarito\\cespe-cebraspe-2022-inss-curso-de-formacao-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2022-inss-curso-de-formacao-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": "16 – INSS, DE 24 DE FEVEREIRO DE 2023",
+        "application_date": "9/4/2023",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 16,
+        "items": 120,
+        "valid_items": 113,
+        "annulled_items": 7,
+        "annulled_numbers": [
+          8,
+          17,
+          45,
+          51,
+          90,
+          94,
+          95
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2022-inss-curso-de-formacao.json"
+    },
+    {
+      "pair_key": "cespe-cebraspe-2022-inss-curso-de-formacao-2-turma",
+      "prova": "prova_gabarito\\cespe-cebraspe-2022-inss-curso-de-formacao-2-turma-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2022-inss-curso-de-formacao-2-turma-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2022-inss-curso-de-formacao-2-turma",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": "14 – INSS, DE 14 DE FEVEREIRO DE 2023",
+        "application_date": "4/2/2024",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 19,
+        "items": 120,
+        "valid_items": 117,
+        "annulled_items": 3,
+        "annulled_numbers": [
+          21,
+          50,
+          78
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2022-inss-curso-de-formacao-2-turma.json"
+    },
+    {
+      "pair_key": "cespe-cebraspe-2022-inss-tecnico-do-seguro-social",
+      "prova": "prova_gabarito\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2022-inss-tecnico-do-seguro-social",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": null,
+        "application_date": "27/11/2022",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 19,
+        "items": 120,
+        "valid_items": 112,
+        "annulled_items": 8,
+        "annulled_numbers": [
+          49,
+          54,
+          65,
+          68,
+          72,
+          74,
+          104,
+          106
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social.json"
+    },
+    {
+      "pair_key": "cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gex-guarulhos",
+      "prova": "prova_gabarito\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gex-guarulhos-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gex-guarulhos-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gex-guarulhos",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": null,
+        "application_date": "11/12/2022",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 21,
+        "items": 120,
+        "valid_items": 118,
+        "annulled_items": 2,
+        "annulled_numbers": [
+          42,
+          69
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2022-inss-tecnico-do-seguro-social-gex-guarulhos.json"
+    },
+    {
+      "pair_key": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "prova": "prova_gabarito\\cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": null,
+        "application_date": "06/04/2025",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 32,
+        "items": 120,
+        "valid_items": 118,
+        "annulled_items": 2,
+        "annulled_numbers": [
+          66,
+          67
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma.json"
+    },
+    {
+      "pair_key": "cespe-cebraspe-2026-inss-tecnico-do-seguro-social-curso-de-formacao-4-turma",
+      "prova": "prova_gabarito\\cespe-cebraspe-2026-inss-tecnico-do-seguro-social-curso-de-formacao-4-turma-prova.pdf",
+      "gabarito": "prova_gabarito\\cespe-cebraspe-2026-inss-tecnico-do-seguro-social-curso-de-formacao-4-turma-gabarito.pdf",
+      "metadata": {
+        "source_id": "cespe-cebraspe-2026-inss-tecnico-do-seguro-social-curso-de-formacao-4-turma",
+        "bank": "CEBRASPE",
+        "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+        "edital": "62 – INSS, DE 6 DE JANEIRO DE 2026",
+        "application_date": "08/02/2026",
+        "source_format": "pdf_text_fallback"
+      },
+      "totals": {
+        "blocks": 33,
+        "items": 120,
+        "valid_items": 118,
+        "annulled_items": 2,
+        "annulled_numbers": [
+          8,
+          12
+        ]
+      },
+      "output": "data\\parsed\\cespe-cebraspe-2026-inss-tecnico-do-seguro-social-curso-de-formacao-4-turma.json"
+    }
+  ],
+  "failures": []
+}

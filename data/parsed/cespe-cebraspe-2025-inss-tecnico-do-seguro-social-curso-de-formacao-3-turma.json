@@ -1,0 +1,1630 @@
+{
+  "metadata": {
+    "source_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+    "bank": "CEBRASPE",
+    "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+    "edital": null,
+    "application_date": "06/04/2025",
+    "source_format": "pdf_text_fallback"
+  },
+  "totals": {
+    "blocks": 32,
+    "items": 120,
+    "valid_items": 118,
+    "annulled_items": 2,
+    "annulled_numbers": [
+      66,
+      67
+    ]
+  },
+  "blocks": [
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:001",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens a seguir, relativos aos procedimentos de atendimento e canais remotos oferecidos pelo INSS.",
+      "items": [
+        {
+          "number": 1,
+          "statement": "É garantido à pessoa surda ou com deficiência auditiva o direito de ser acompanhada por seu intérprete ou tradutor da língua brasileira de sinais (LIBRAS), durante todos os atendimentos realizados no âmbito do INSS.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 2,
+          "statement": "Cabe ao colaborador do protocolo, no cumprimento de exigência administrativa, a análise imediata do mérito do pedido por meio de despacho fundamentado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 3,
+          "statement": "O canal de atendimento telefônico do INSS — central de atendimento 135 — funciona com atendimento humano durante todos os dias da semana, inclusive aos domingos e feriados, o que garante acesso contínuo e atendimento eficaz aos segurados.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:002",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens seguintes, acerca dos benefícios por incapacidade concedidos pelo INSS.",
+      "items": [
+        {
+          "number": 4,
+          "statement": "A concessão do benefício por incapacidade temporária depende da comprovação da incapacidade para o trabalho por período superior a 15 dias consecutivos.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 5,
+          "statement": "Caso o segurado retorne ao trabalho enquanto estiver em gozo de benefício por incapacidade temporária e permaneça trabalhando, o referido benefício será cancelado a partir da data do retorno.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 6,
+          "statement": "A renda mensal inicial do auxílio-acidente será de 51% do salário de benefício que tenha servido de base para o cálculo da renda mensal do auxílio por incapacidade temporária.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 7,
+          "statement": "Se, durante o gozo do benefício, o segurado for convocado para uma nova perícia e não comparecer à avaliação, o benefício será automaticamente cessado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:003",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Em relação à aposentadoria por incapacidade permanente, julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 8,
+          "statement": "Para a concessão da aposentadoria por incapacidade permanente, é necessário que o segurado tenha cumprido, no mínimo, 12 meses de contribuição, salvo em casos de acidente de qualquer natureza, doença profissional ou do trabalho e doenças graves constantes de ato regulamentar.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 9,
+          "statement": "A perda da qualidade de segurado impede a concessão de aposentadoria por incapacidade permanente, ainda que a incapacidade tenha ocorrido antes da perda dessa qualidade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 10,
+          "statement": "O acréscimo de 25% sobre o valor da aposentadoria por incapacidade permanente é concedido quando o segurado necessita de assistência permanente de outra pessoa, independentemente de o valor ultrapassar o teto previdenciário.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 11,
+          "statement": "Quando a recuperação da capacidade de trabalho do aposentado por incapacidade permanente for total e ocorrer no prazo de sete anos contado da data de início da aposentadoria ou do auxílio por incapacidade temporária que a antecedeu, sem interrupção, o benefício cessará em 3 meses.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Considerando as regras gerais da seguridade social e o regime geral de previdência social (RGPS), julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 12,
+          "statement": "O princípio da universalidade da cobertura e do atendimento garante que todos os cidadãos, independentemente de filiação ao regime de previdência, têm direito irrestrito aos benefícios previdenciários e aos serviços oferecidos pela seguridade social.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 13,
+          "statement": "O sistema previdenciário brasileiro adota o princípio da solidariedade, segundo o qual as contribuições individuais geram recursos para a criação de um sistema de proteção social, visando ao acolhimento das pessoas em momentos de necessidade.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 14,
+          "statement": "A seguridade social é organizada de forma descentralizada e bipartite, com gestão compartilhada entre os órgãos da administração pública e as entidades privadas prestadoras de serviços sociais e seguros.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 15,
+          "statement": "Os dispositivos constitucionais que tratam da seguridade social e suas disposições gerais, da saúde, da previdência e da assistência social funcionam como fundamento de validade para todo o ordenamento normativo direta ou indiretamente aplicado ao direito previdenciário.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 16,
+          "statement": "O RGPS assegura proteção tanto ao segurado quanto a seus dependentes, garantindo-lhes a prestação de benefícios em caso de incapacidade, morte e outras situações previstas em lei.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 17,
+          "statement": "O segurado que deixar de contribuir para o RGPS por mais de 12 meses perderá a qualidade de segurado e o direito a todos os benefícios previdenciários, não estando previstas hipóteses de prorrogação desse prazo.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 18,
+          "statement": "Para que a companheira de segurado tenha direito à pensão por morte, ela deverá comprovar a existência de relação de dependência econômica com ele.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 19,
+          "statement": "Perderão a qualidade de dependente de segurado o filho, o enteado, o menor tutelado, ou o irmão, de qualquer condição, ao completarem 21 anos de idade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os próximos itens, relativos ao segurado facultativo.",
+      "items": [
+        {
+          "number": 20,
+          "statement": "A filiação à previdência social para os segurados facultativos decorre automaticamente do exercício de atividade remunerada.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 21,
+          "statement": "O segurado facultativo que deixar de contribuir para a previdência social por cinco meses perderá imediatamente a qualidade de segurado e o direito aos benefícios previdenciários. Carla, empregada de uma indústria têxtil, sofreu acidente de trabalho enquanto operava uma máquina de corte, o que lhe ocasionou graves lesões na mão direita. Após perícia médica, foi constatada incapacidade permanente de Carla para o exercício de sua função habitual. Com base nessa situação hipotética, julgue os itens subsecutivos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 22,
+          "statement": "A indústria têxtil deverá emitir comunicação de acidente de trabalho (CAT) até o primeiro dia útil seguinte ao da ocorrência do acidente sofrido por Carla, sob pena de multa.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 23,
+          "statement": "Caso Carla necessite de reabilitação profissional para exercer uma nova função, o INSS deverá prover os meios necessários para a sua efetiva colocação em outro emprego para o qual tenha sido reabilitada.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 24,
+          "statement": "Concedido auxílio-acidente à segurada, ele deixará de ser pago quando de sua aposentadoria, uma vez que é vedada a acumulação desses benefícios.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:006",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que se refere aos segurados do RGPS, ao salário de contribuição e ao salário-família, julgue os próximos itens.",
+      "items": [
+        {
+          "number": 25,
+          "statement": "O brasileiro civil contratado diretamente por organismo oficial internacional do qual o Brasil seja membro efetivo é considerado contribuinte individual, e não empregado, para fins previdenciários, salvo se coberto por regime próprio.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 26,
+          "statement": "Considera-se segurado empregado o síndico ou o administrador eleito que perceba remuneração direta ou indireta, a exemplo da isenção da taxa de condomínio.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 27,
+          "statement": "O salário de contribuição para o dirigente sindical na qualidade de trabalhador avulso será a remuneração paga, devida ou creditada pela entidade sindical.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 28,
+          "statement": "A carência necessária para o recebimento do salário-família será de 12 contribuições ao INSS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os seguintes itens, referentes a acidente do trabalho.",
+      "items": [
+        {
+          "number": 29,
+          "statement": "São três os tipos de CAT: inicial; de reabertura; e de comunicação de óbito.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 30,
+          "statement": "Nexo técnico profissional ou do trabalho é o que decorre de acidentes de trabalho típicos ou de trajeto, bem como de condições especiais em que o trabalho é realizado e com ele diretamente relacionado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 31,
+          "statement": "Doença proveniente de contaminação acidental do empregado no exercício de sua atividade não é considerada acidente de trabalho.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 32,
+          "statement": "No caso de doença profissional ou do trabalho, considera-se como dia do acidente a data do início da incapacidade laborativa para o exercício da atividade habitual, o dia da segregação compulsória, ou o dia em que for realizado o diagnóstico, válido, para esse efeito, o que ocorrer primeiro.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 33,
+          "statement": "Possuem cobertura previdenciária por acidente do trabalho o empregado, o empregado doméstico, o trabalhador avulso e o segurado especial.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:008",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Considerando que determinada segurada tenha-se filiado ao RGPS a partir de 14/11/2019, julgue os itens subsecutivos, relacionados ao conceito, à carência, ao cálculo e ao valor do benefício da aposentadoria programada.",
+      "items": [
+        {
+          "number": 34,
+          "statement": "A carência de tempo de contribuição exigida para o reconhecimento do direito da segurada ao benefício do RGPS é de cento e oitenta contribuições mensais.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 35,
+          "statement": "À segurada será concedida a aposentadoria programada, cumprida a carência, quando preenchidos os seguintes requisitos: 62 anos de idade ou 15 anos de tempo de contribuição.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 36,
+          "statement": "O cálculo do benefício da aposentadoria programada da segurada corresponde a 60% do salário de benefício, com acréscimo de 2% para cada ano de contribuição que exceder o tempo de 15 anos de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:009",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens seguintes, relativos ao tempo de contribuição, à contagem, ao aproveitamento e à conversão de tempo de contribuição referentes à aposentadoria programada.",
+      "items": [
+        {
+          "number": 37,
+          "statement": "O tempo de contribuição para o segurado filiado ao RGPS a partir de 14/11/2019 deve ser considerado como o tempo contado de data a data, desde o início até a data do desligamento de atividade abrangida pela previdência social, ou até a data do fato gerador do benefício pleiteado, descontados os períodos legalmente estabelecidos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 38,
+          "statement": "Desde a publicação da EC n.º 20/1998, é vedada a contagem de tempo de contribuição fictício, sem contribuição, para efeito de concessão dos benefícios previdenciários.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 39,
+          "statement": "Para fins de aposentadoria, a partir de 14/11/2019, não é mais assegurada a contagem recíproca do tempo de contribuição entre o RGPS e os regimes próprios de previdência social (RPPS), e destes entre si.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:010",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens seguintes, em relação à aposentadoria programada do professor filiado ao RGPS a partir de 14/11/2019.",
+      "items": [
+        {
+          "number": 40,
+          "statement": "Para a professora que comprove, exclusivamente, tempo de efetivo exercício em função de magistério na educação básica, desde que cumprida a carência exigida, é concedida aposentadoria programada quando completados, cumulativamente, 58 anos de idade e 25 anos de contribuição exclusivamente em efetivo exercício das funções de magistério na educação infantil, no ensino fundamental ou no ensino médio.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 41,
+          "statement": "A carência de tempo de contribuição exigida ao reconhecimento do direito ao benefício do RGPS concernente à aposentaria programada do professor, desde que cumpridos os requisitos exigidos de idade, tempo de contribuição e efetivo exercício das funções de magistério na educação infantil, no ensino fundamental ou no ensino médio, é de cento e cinquenta contribuições mensais.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 42,
+          "statement": "O cálculo do benefício da aposentadoria programada de professor, quando homem, corresponde a 60% do salário de benefício, com acréscimo de 2% para cada ano de contribuição que exceder o tempo de vinte anos de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:011",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Acerca do tempo de contribuição e da contagem do tempo de contribuição relativos à aposentadoria programada do professor, julgue os itens que se seguem.",
+      "items": [
+        {
+          "number": 43,
+          "statement": "Consideram-se como tempo de contribuição para fins de aposentadoria do professor os períodos desempenhados em entidade educacional de ensino básico em função de magistério como docente, a qualquer título.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 44,
+          "statement": "Para a contagem do tempo de contribuição para fins de aposentadoria do professor, deve-se considerar o período de licença-prêmio no vínculo de professor.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 45,
+          "statement": "É permitida a conversão de tempo de serviço de magistério na educação infantil, no ensino fundamental ou no ensino médio, exercido em qualquer época, em tempo de serviço comum.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens que se seguem, referentes à aposentadoria por idade do trabalhador rural.",
+      "items": [
+        {
+          "number": 46,
+          "statement": "A aposentadoria por idade do trabalhador rural, desde que cumprida a carência exigida, será devida ao segurado que completar cinquenta e cinco anos de idade, se mulher, e sessenta anos de idade, se homem.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 47,
+          "statement": "Para fins de concessão de aposentadoria, são considerados trabalhadores rurais os produtores rurais, proprietários ou não.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 48,
+          "statement": "Para os segurados especiais que não contribuam facultativamente, o valor do benefício da aposentadoria por idade corresponde à renda mensal inicial de 1,2 vezes o salário mínimo. Com relação à aposentadoria híbrida e às formas de comprovação de atividade rural, julgue os próximos itens.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 49,
+          "statement": "O trabalhador rural que não atenda às condições legais, mas que satisfaça à carência exigida computando-se os períodos de contribuição sob outras categorias, inclusive urbanas, faz jus à aposentadoria na modalidade híbrida ao completar sessenta anos de idade, se homem.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 50,
+          "statement": "Para fins de comprovação do tempo de labor rural, o início de prova material deve ser contemporâneo à época dos fatos a serem provados.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 51,
+          "statement": "A comprovação do exercício de atividade rural pode ser feita, complementarmente à autodeclaração e ao cadastro legalmente estabelecidos, por meio de contrato de arrendamento, parceria ou comodato rural.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:013",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Em relação ao conceito, à carência, à manutenção e à perda da qualidade de segurado, bem como ao cálculo e ao valor do benefício relativo à aposentadoria especial, julgue os itens seguintes.",
+      "items": [
+        {
+          "number": 52,
+          "statement": "Cumprida a carência exigida em lei, é devida a aposentadoria especial ao segurado que tiver trabalhado e se sujeitado a condições especiais que prejudiquem sua saúde ou integridade física, durante doze, vinte ou vinte e cinco anos, conforme dispõe a lei.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 53,
+          "statement": "Considerado o direito adquirido até 13/11/2019, data da publicação da EC n.º 103/2019, se cumpridas as exigências legais de aposentadoria especial, o segurado filiado ao RGPS fará jus a 60% do salário de benefício.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 54,
+          "statement": "Caso o titular de aposentadoria especial retorne à atividade especial ou permaneça exercendo a mesma atividade, o benefício de aposentadoria especial cessará.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:014",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os próximos itens, a respeito do perfil profissiográfico previdenciário (PPP) e da conversão de atividade especial.",
+      "items": [
+        {
+          "number": 55,
+          "statement": "O PPP, documento histórico laboral do trabalhador, deve conter os dados administrativos da empresa e do trabalhador, os registros ambientais e os dados dos responsáveis pelas informações.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 56,
+          "statement": "Além da comprovação do exercício em atividade especial, o PPP tem como finalidade fornecer ao trabalhador meios de prova produzidos pelo empregador perante o órgão de previdência social, outros órgãos públicos e sindicatos, de forma a garantir todo direito decorrente da relação de trabalho.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 57,
+          "statement": "Para fins de concessão de aposentadoria especial, consideram-se somente os períodos de atividade especial, facultada a conversão de tempo especial em comum.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que diz respeito à aposentadoria por tempo de contribuição e por idade do segurado com deficiência, julgue os itens seguintes.",
+      "items": [
+        {
+          "number": 58,
+          "statement": "Considera-se pessoa com deficiência aquela que tem impedimentos de longo prazo, de natureza física, mental, intelectual ou sensorial, os quais, em interação com diversas barreiras, podem obstruir a participação plena e efetiva do segurado na sociedade em igualdade de condições com as demais pessoas.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 59,
+          "statement": "Para efeito de concessão da aposentadoria da pessoa com deficiência, compete à Perícia Médica Federal reconhecer o grau da deficiência, mas não fixar a data provável do início da deficiência, cuja atribuição é exclusiva do Serviço Social do INSS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 60,
+          "statement": "É devida a aposentadoria por tempo de contribuição da pessoa com deficiência grave segurada do RGPS, cumprida a carência exigida, caso seja preenchido o requisito de dezoito anos de tempo de contribuição na condição de pessoa com deficiência grave.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 61,
+          "statement": "É vedada a conversão do tempo de contribuição cumprido em condições especiais que prejudiquem a saúde ou a integridade física da pessoa com deficiência segurada do RGPS, para fins da aposentadoria por tempo de contribuição, mesmo se resultar mais favorável ao segurado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 62,
+          "statement": "Para a revisão da avaliação médica e funcional do segurado com deficiência, a pedido dele mesmo ou por iniciativa do INSS, aplica-se o prazo decadencial, a ser contado do dia primeiro do mês seguinte ao do recebimento da primeira prestação do benefício de aposentadoria.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 63,
+          "statement": "Não existe vedação à continuidade ou ao retorno à atividade exercida por pessoa com deficiência, sendo permitido o recebimento conjunto da aposentadoria.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Em relação ao benefício do salário-maternidade concedido aos segurados do RGPS, julgue os itens subsecutivos.",
+      "items": [
+        {
+          "number": 64,
+          "statement": "O recebimento do salário-maternidade pela segurada empregada e pela contribuinte individual independe do cumprimento de tempo de carência.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 65,
+          "statement": "A mulher casada com idade superior a dezoito anos, que se dedique exclusivamente ao trabalho doméstico no âmbito de sua residência e que esteja contribuindo para o RGPS na condição de segurada facultativa terá direito ao salário-maternidade desde que comprove o mínimo de dez contribuições mensais à época do parto.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 66,
+          "statement": "Considere que uma segurada empregada esteja recebendo aposentadoria programada e passe a contribuir para o RGPS na condição de segurada facultativa. Nessa situação, se a referida empregada engravidar, ela poderá acumular o benefício da aposentadoria com o do salário-maternidade.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 67,
+          "statement": "O benefício do salário-maternidade devido a uma trabalhadora que mantém vínculo empregatício com um empreendedor individual é pago pelo INSS.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 68,
+          "statement": "Caso uma segurada empregada faleça em decorrência do parto de seu filho, o marido dela terá direito ao recebimento do salário-maternidade, ainda que ele não seja segurado do RGPS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:017",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Acerca do benefício do salário-família concedido pelo RGPS, julgue os itens que se seguem.",
+      "items": [
+        {
+          "number": 69,
+          "statement": "O segurado empregado que esteja recebendo salário-família e seja demitido sem justa causa terá direito de continuar recebendo o benefício junto ao INSS, por um período de doze meses.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:017",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 70,
+          "statement": "O benefício do salário-família devido ao segurado do RGPS é proporcional ao número de filhos menores de quatorze anos ou inválidos, não podendo a soma das cotas de todos eles exceder o valor de um salário mínimo.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:017",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 71,
+          "statement": "O salário-família independe de prazo de carência e pode ser acumulado com a aposentadoria por incapacidade permanente.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:017",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 72,
+          "statement": "O salário-família, devido a todo segurado do RGPS considerado de baixa renda, é pago mensalmente, na proporção do respectivo número de filhos, enteados ou menores tutelados, todos com idade de até quatorze anos, ou inválidos de qualquer idade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:017",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que diz respeito ao benefício da pensão por morte concedido pelo RGPS, julgue os próximos itens.",
+      "items": [
+        {
+          "number": 73,
+          "statement": "A pensão por morte é concedida, de ofício, pelo INSS a todos os dependentes do segurado falecido que se encontrarem devidamente inscritos junto ao órgão previdenciário.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 74,
+          "statement": "Suponha que Carlos, segurado do RGPS, faleça solteiro e sem filhos e que, na data de sua morte, seu único irmão esteja com de 12 anos de idade. Nessa situação, o irmão de Carlos terá direito de receber a pensão por morte em razão do falecimento deste, ainda que não seja seu dependente econômico.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 75,
+          "statement": "Considere que Maria tenha falecido em 2018 e que seus três filhos, todos menores de idade, tenham passado a receber o benefício da pensão por morte concedido pelo INSS. Considere, ainda, que recentemente um desses beneficiários tenha falecido. Nesse caso, o valor da cota que era paga a esse filho será revertido em favor dos seus dois irmãos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 76,
+          "statement": "Considere que Flávio, casado com Zilda há vinte e dois anos e contribuinte do RGPS há mais de trinta anos, faleça e, na data de sua morte, Zilda tenha completado quarenta e oito anos de idade. Nessa situação, Zilda terá direito de receber do INSS pensão por morte de caráter vitalício.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 77,
+          "statement": "Suponha que o INSS tenha concedido pensão por morte presumida aos dependentes de determinado segurado. Nesse caso, se o segurado aparecer vivo, o pagamento do benefício será cessado imediatamente, e os dependentes terão, por regra, de restituir ao INSS todos os valores recebidos a título de pensão por morte.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 78,
+          "statement": "Considere que Marcos, segurado do RGPS, seja obrigado, em decorrência de decisão judicial, a pagar pensão alimentícia a sua ex-esposa, Luíza, pelo período de um ano. Nessa situação, caso Marcos faleça enquanto estiver pagando a pensão alimentícia a Luíza, esta terá direito de receber o benefício da pensão por morte pelo prazo remanescente constante na decisão judicial que impôs a Marcos a obrigação de pagar pensão alimentícia.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:018",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:019",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que concerne ao auxílio-reclusão concedido pelo RGPS, julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 79,
+          "statement": "Ao segurado facultativo recolhido à prisão em regime fechado é assegurado o recebimento, pelo INSS, do auxílio-reclusão pelo tempo em que permanecer privado da sua liberdade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:019",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 80,
+          "statement": "O valor do auxílio-reclusão será equivalente à média aritmética das doze últimas contribuições mensais do segurado ao INSS, limitado a três salários mínimos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:019",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 81,
+          "statement": "Se, no curso do benefício auxílio-reclusão, o segurado, cumpridas todas as exigências legais, passar a receber aposentadoria programada, o pagamento do auxílio-reclusão será extinto, ainda que o segurado permaneça privado de sua liberdade.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:019",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:020",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens subsequentes, relativos ao abono anual concedido pelo RGPS.",
+      "items": [
+        {
+          "number": 82,
+          "statement": "O segurado que recebe auxílio-acidente não faz jus ao abono anual.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:020",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 83,
+          "statement": "O segurado que receber o benefício do auxílio por incapacidade temporária por um período de oito meses ao longo de um ano terá direito ao recebimento do abono anual equivalente a 8/12 do valor recebido a título de auxílio por incapacidade temporária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:020",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens a seguir, relativos ao benefício de prestação continuada (BPC).",
+      "items": [
+        {
+          "number": 84,
+          "statement": "O BPC é garantido ao idoso com 65 anos ou mais de idade e à pessoa com deficiência que comprovem renda per capita inferior a 1/4 do salário mínimo vigente e a inexistência de meios de prover a própria existência bem como a de sua família.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 85,
+          "statement": "O BPC poderá ser acumulado com aposentadoria pelo RGPS, desde que a soma dos valores não ultrapasse o teto previdenciário.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 86,
+          "statement": "O BPC pode ser suspenso se o beneficiário não realizar a atualização cadastral no cadastro único para programas sociais do governo federal. A respeito das pensões especiais concedidas por leis específicas, julgue os itens seguintes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 87,
+          "statement": "A pensão especial concedida às vítimas da contaminação por hemodiálise em Caruaru – PE possui caráter contributivo e depende da comprovação de vínculo com o RGPS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 88,
+          "statement": "A pensão concedida aos ex-combatentes da Segunda Guerra Mundial pode ser transmitida aos dependentes, observando-se os mesmos critérios de pensão por morte previstos no RGPS.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 89,
+          "statement": "Por ter natureza jurídica remuneratória, a pensão especial destinada aos anistiados políticos não pode ser acumulada com aposentadoria concedida pelo RPPS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:021",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:022",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Acerca dos critérios de concessão, renda e manutenção de benefícios assistenciais, julgue os itens subsequentes.",
+      "items": [
+        {
+          "number": 90,
+          "statement": "As despesas com medicamentos e tratamentos médicos dos beneficiários do BPC não podem ser deduzidas para fins de cálculo da renda per capita familiar.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:022",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 91,
+          "statement": "A pensão especial para as vítimas da hanseníase submetidas a isolamento compulsório é vitalícia e personalíssima, não sendo transmissível aos dependentes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:022",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 92,
+          "statement": "O auxílio especial destinado a jogadores das seleções brasileiras campeãs do mundo só é concedido mediante a comprovação de situação de vulnerabilidade social.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:022",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 93,
+          "statement": "O valor da renda mensal inicial da pensão especial destinada a crianças com síndrome congênita do Zika vírus será de dois salários mínimos, sendo transferível somente à genitora.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:022",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:023",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens a seguir, referentes ao BPC para pessoa com deficiência.",
+      "items": [
+        {
+          "number": 94,
+          "statement": "A concessão do referido benefício exige a realização de avaliação biopsicossocial da pessoa com deficiência.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:023",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 95,
+          "statement": "Esse benefício é devido desde o momento da constatação da deficiência, independentemente da data do requerimento.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:023",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 96,
+          "statement": "A revisão periódica do BPC deve ser realizada pelo INSS para a verificação da manutenção das condições que ensejaram a concessão do benefício.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:023",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:024",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os próximos itens, que dizem respeito à pensão especial para portadores da síndrome de talidomida.",
+      "items": [
+        {
+          "number": 97,
+          "statement": "O referido benefício corresponde a uma prestação mensal vitalícia e é isento de imposto de renda.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:024",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 98,
+          "statement": "Essa pensão especial é acumulável com outros benefícios previdenciários do RGPS, desde que a soma dos benefícios acumulados não ultrapasse o teto de três salários mínimos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:024",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:025",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Em relação ao seguro-desemprego do pescador artesanal, conhecido popularmente como seguro defeso, julgue os itens seguintes.",
+      "items": [
+        {
+          "number": 99,
+          "statement": "O seguro defeso garante ao pescador artesanal o recebimento de um salário mínimo durante o período de paralisação da atividade pesqueira.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:025",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 100,
+          "statement": "Para ter direito ao seguro defeso, o pescador deve comprovar que exerce a pesca como atividade profissional complementar ou que a atividade da pesca é única e exclusivamente para a subsistência de sua família.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:025",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:026",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que diz respeito ao cadastro nacional de informações sociais (CNIS), julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 101,
+          "statement": "Os dados constantes do CNIS relativos a vínculos, remunerações e contribuições são válidos para a comprovação de filiação à previdência social, de tempo de contribuição e de salários de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:026",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 102,
+          "statement": "A realização da pesquisa externa para a atualização do CNIS prescinde de prévia designação de servidor do INSS mediante portaria.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:026",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 103,
+          "statement": "Para a solicitação de inclusão, alteração, ratificação ou exclusão de informações divergentes, extemporâneas ou insuficientes no CNIS, exige-se a apresentação de requerimento pelo filiado, inclusive nas situações de atualização que não demandem sua manifestação escrita, vinculadas ao pedido de benefícios.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:026",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:027",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os seguintes itens, acerca da certidão de tempo de contribuição (CTC).",
+      "items": [
+        {
+          "number": 104,
+          "statement": "É possível a emissão de certidão única com destinação do tempo de contribuição para, no máximo, dois órgãos distintos, quando o documento for solicitado pelo segurado que exerce cargos constitucionalmente acumuláveis.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:027",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 105,
+          "statement": "É vedada a emissão de certidão de tempo de serviço para período fracionado, razão por que o segurado da previdência social não pode levar para o regime de previdência próprio dos servidores públicos apenas o montante de tempo de serviço que lhe seja necessário para a obtenção da aposentadoria almejada.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:027",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 106,
+          "statement": "É vedada a emissão de CTC, para fins de contagem recíproca, com a contagem em dobro ou em outras condições especiais.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:027",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:028",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens subsequentes, relativos à compensação previdenciária.",
+      "items": [
+        {
+          "number": 107,
+          "statement": "A compensação previdenciária consiste no acerto de contas de natureza financeira entre o RGPS e RPPS, e entre os regimes próprios, referente ao tempo de contribuição utilizado na concessão de benefícios nos termos da contagem recíproca.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:028",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 108,
+          "statement": "É vedada a utilização do mesmo sistema para envio e análise dos requerimentos de compensação previdenciária pelo RGPS e pelos RPPS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:028",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:029",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que refere aos procedimentos revisionais de benefícios, julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 109,
+          "statement": "A revisão de benefícios deve ser iniciada por determinação judicial, observadas as disposições relativas à prescrição e à decadência.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:029",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 110,
+          "statement": "O requerimento de revisão de benefícios pode ser feito integralmente pela Internet, sendo desnecessário o comparecimento presencial do beneficiário ao INSS.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:029",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 111,
+          "statement": "A revisão que acarretar prejuízo ao beneficiário produzirá efeitos apenas após a conclusão dos procedimentos que garantam o contraditório e a ampla defesa.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:029",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:030",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens a seguir, referentes à instrução processual e ao recurso ao Conselho de Recursos da Previdência Social (CRPS).",
+      "items": [
+        {
+          "number": 112,
+          "statement": "É assegurado ao requerente cujo pedido seja indeferido pelo INSS o direito de interpor recurso ao CRPS contra a decisão de indeferimento.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:030",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 113,
+          "statement": "O prazo para interposição dos recursos ordinário e especial, bem como para apresentação dos incidentes processuais é de cinco dias úteis, a contar da data da ciência da decisão questionada pela parte.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:030",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 114,
+          "statement": "Quando as câmaras de julgamento entenderem pela necessidade de anulação do julgamento pretérito, será admitida a devolução dos autos à junta de recursos de origem para reexame da matéria e nova decisão de mérito, ou, em atendimento ao princípio de economia processual, se não houver prejuízo à instrução processual ou à defesa das partes, poderão estas pronunciar-se em caráter definitivo sobre o mérito da controvérsia no âmbito administrativo.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:030",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:031",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Em relação aos acordos internacionais de previdência social, julgue os itens que se seguem.",
+      "items": [
+        {
+          "number": 115,
+          "statement": "A celebração de acordo internacional de previdência social implica a modificação da legislação vigente no país, razão por que o país signatário deixa de analisar os pedidos de benefícios com fundamento em sua legislação interna e passa a decidir sobre ele s apenas com base no referido tratado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:031",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 116,
+          "statement": "Compete privativamente ao Ministério das Relações Exteriores gerenciar e acompanhar as negociações de acordos internacionais em matéria de previdência social.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:031",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 117,
+          "statement": "São as seguintes as competências do organismo de ligação: promover o intercâmbio de informações com o país acordante; analisar e concluir as solicitações relativas ao tempo de contribuição ou ao seguro vertidos para países signatários de acordo internacional; emitir certificados e documentos para a aplicação do acordo; e prestar atendimento aos segurados.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:031",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:032",
+      "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens que se seguem, a respeito do Programa de Educação Previdenciária (PEP).",
+      "items": [
+        {
+          "number": 118,
+          "statement": "Gerenciado pelo INSS, o PEP visa à promoção de educação básica aos filhos dos segurados que não possuem acesso à educação formal promovida pelo poder público.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:032",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 119,
+          "statement": "O conteúdo do PEP é divulgado por meio de ações presenciais e virtuais, tais como a promoção de cursos com os mais variados temas de interesses dos segurados, bem como o uso de rádio e mídias eletrônicas, com enciclopédia, vídeos, podcasts e interação em redes sociais.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:032",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 120,
+          "statement": "O PEP é promovido por empresas contratadas pelo INSS, mediante licitação, para a disseminação de conteúdos de interesse coletivo e ampliação do conhecimento acerca dos mais diversos temas, de cunho social, econômico, cultural e ambiental.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma",
+          "block_id": "cespe-cebraspe-2025-inss-tecnico-do-seguro-social-curso-de-formacao-3-turma:bloco:032",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1491 @@
+{
+  "metadata": {
+    "source_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+    "bank": "CEBRASPE",
+    "title": "CARGO DE TÉCNICO DO SEGURO SOCIAL",
+    "edital": "16 – INSS, DE 24 DE FEVEREIRO DE 2023",
+    "application_date": "9/4/2023",
+    "source_format": "pdf_text_fallback"
+  },
+  "totals": {
+    "blocks": 16,
+    "items": 120,
+    "valid_items": 113,
+    "annulled_items": 7,
+    "annulled_numbers": [
+      8,
+      17,
+      45,
+      51,
+      90,
+      94,
+      95
+    ]
+  },
+  "blocks": [
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Formas de Atendimento e Canais Remotos Acerca das competências, da visão institucional e da estrutura organizacional do Instituto Nacional do Seguro Social (INSS), julgue os itens seguintes.",
+      "items": [
+        {
+          "number": 1,
+          "statement": "Ao INSS compete, atualmente, operacionalizar o reconhecimento do direito ao seguro-desemprego do pescador artesanal.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 2,
+          "statement": "Para descentralizar suas ações e atender de modo mais efetivo à população, o INSS dispõe de seis superintendências regionais.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 3,
+          "statement": "A visão institucional do INSS é garantir proteção social aos cidadãos por meio do reconhecimento de direitos. Benefícios por Incapacidade Antônio, cônjuge de Maria, é empregado da empresa Boa Logística, na qual atua separando mercadorias. Pedro, seu colega de trabalho e operador de máquina empilhadeira, agiu de maneira negligente e acabou atingindo Antônio, causando-lhe lesões no braço. Esse acidente reduziu, temporariamente, a capacidade laborativa de Antônio. Com base nessa situação hipotética, julgue os itens a seguir sobre benefícios por incapacidade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 4,
+          "statement": "A situação de Antônio não se enquadra na hipótese de acidente de trabalho, segundo a legislação previdenciária.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 5,
+          "statement": "Se a empresa Boa Logística não fizer a comunicação do acidente de trabalho, poderá fazê-la Maria, desde que observe o mesmo prazo legal estipulado para a empresa.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 6,
+          "statement": "Em razão da atuação negligente de Pedro, que demonstrou desleixo ao operar a máquina, o acidente sofrido por Antônio não configura acidente do trabalho para fins de proteção previdenciária.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 7,
+          "statement": "A empresa Boa Logística deverá comunicar o acidente de trabalho à previdência social até o primeiro dia útil seguinte ao da ocorrência, sob pena de multa. Ainda com relação a benefícios por incapacidade, julgue o próximo item.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 8,
+          "statement": "A perícia médica do Instituto Nacional do Seguro Social (INSS) considera caracterizada a natureza acidentária da incapacidade quando constata ocorrência de nexo técnico epidemiológico entre o trabalho e o agravo, decorrente da relação entre a atividade da empresa e a entidade mórbida motivadora da incapacidade elencada na Classificação Internacional de Doenças (CID), em conformidade com o que dispuser o regulamento. Luana é empregada de uma empresa de material esportivo desde agosto de 2019. Em 10 de dezembro de 2020, sofreu um trauma no tornozelo direito, enquanto jogava futebol com as amigas. Tal fato agravou uma lesão leve que existia no local desde 2018 e, somente com esse trauma de 2020, se deu a incapacidade de Luana para o trabalho por mais de 15 dias.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:001",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Considerando essa situação hipotética, julgue os itens que se seguem acerca do auxílio por incapacidade temporária.",
+      "items": [
+        {
+          "number": 9,
+          "statement": "Como já tinha uma lesão leve no tornozelo direito desde 2018, Luana não tem direito ao benefício de auxílio por incapacidade temporária.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 10,
+          "statement": "Para fins de análise do auxílio por incapacidade, deve ser observada a data do início da lesão no tornozelo de Luana, ou seja, em 2018.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 11,
+          "statement": "Para fazer jus ao beneficio de auxílio por incapacidade temporária, é obrigatório que a incapacidade de Luana para o trabalho ou para sua atividade habitual seja superior a 15 dias.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 12,
+          "statement": "Caso o perito médico federal estabeleça prazo insuficiente para o restabelecimento da capacidade para o trabalho, Luana poderá solicitar prorrogação do benefício, desde que o faça nos 15 dias que antecedem a data de cessação do benefício.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 13,
+          "statement": "Se, mesmo em gozo de auxílio por incapacidade temporária, Luana requerer salário-maternidade, ela poderá acumular os dois tipos de auxílio.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 14,
+          "statement": "Caso Luana seja convocada, mas não compareça para a avaliação das condições que ensejaram a concessão do auxílio por incapacidade temporária, ela deverá ter o seu benefício cessado. Rodrigo reside em imóvel rural e não contribui para o regime geral da previdência social (RGPS). Desde 13/11/2020, Rodrigo passou a fazer da pesca seu principal meio de vida, tendo como comprovar que, partir dessa data, vem exercendo initerruptamente atividade em regime de economia familiar, sem empregados permanentes, nos termos da legislação previdenciária. Em 18/1/2022, Rodrigo caiu do cavalo em que estava montado. A queda tornou-o incapaz de exercer qualquer atividade laborativa ou ser reabilitado em outra profissão, segundo laudo da perícia médica federal. Com referência a essa situação hipotética, julgue os itens subsequentes, relativo ao auxílio por incapacidade permanente.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 15,
+          "statement": "Por ser pescador artesanal, Rodrigo é segurado obrigatório do RGPS na qualidade de segurado especial.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 16,
+          "statement": "Rodrigo faz jus ao benefício previdenciário que teve sua nomenclatura alterada de aposentadoria por invalidez para aposentadoria por incapacidade permanente, desde que observada a carência de 12 meses de efetivo exercício da atividade rural. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 17,
+          "statement": "Se, mesmo aposentado por incapacidade permanente, Rodrigo tiver necessidade de receber assistência permanente de outra pessoa e comprovar por meio de perícia médica do Instituto Nacional do Seguro Social (INSS) que tal situação se iniciou após a concessão do benefício, ele fará jus a um acréscimo de 25% sobre o valor da renda mensal do seu benefício a partir da data do pedido de acréscimo.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 18,
+          "statement": "Caso Rodrigo se aposente por incapacidade permanente, mas se recupere totalmente antes de decorridos cinco anos da data de início da aposentadoria, ele terá a aposentadoria cessada após tantos meses quantos forem os anos de duração da aposentadoria. Beatriz, que é cadastrada e registrada no Órgão Gestor de Mão de Obra (OGMO), presta serviço de conferência de cargas no Porto de Santos a diversas empresas, sem vínculo empregatício. Certo dia, Beatriz sofreu um acidente de trânsito que lhe causou lesões no braço esquerdo. Após a consolidação das lesões, resultaram sequelas que reduziram a capacidade para o trabalho que, habitualmente, exercia na zona portuária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:002",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que se refere a essa situação hipotética, julgue os itens sobre auxílio-acidente.",
+      "items": [
+        {
+          "number": 19,
+          "statement": "Caso Beatriz esteja em gozo de auxílio-acidente, ela estará obrigada a submeter-se a exame médico a cargo da previdência social para a avaliação das condições que ensejaram a concessão do benefício, sob pena de suspensão deste.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 20,
+          "statement": "Como trabalhadora avulsa portuária, Beatriz é segurada obrigatória do regime geral de previdência social (RGPS) e faz jus ao auxílio-acidente, desde que observe a carência de 12 meses de contribuição.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 21,
+          "statement": "Caso Beatriz faça jus ao auxílio-acidente, a concessão de outro benefício, exceto de aposentadoria, não prejudicará a continuidade do recebimento do auxílio-acidente.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 22,
+          "statement": "Diferentemente dos demais benefícios previdenciários, o auxílio-acidente possui natureza indenizatória. Ainda com relação ao auxílio-acidente, julgue os itens subsequentes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 23,
+          "statement": "O auxílio-acidente será devido até a data de emissão da certidão de tempo de contribuição (CTC) ou até a data de óbito do segurado, observadas as hipóteses de acumulação permitida, como, por exemplo, a aposentadoria.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 24,
+          "statement": "A renda mensal inicial do auxílio-acidente é calculada aplicando-se o percentual de 50% do salário de benefício que tenha servido de base para o cálculo da renda mensal do auxílio por incapacidade temporária, reajustado pelos mesmos índices de correção dos benefícios em geral.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:003",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Acerca dos benefícios por incapacidade, julgue os próximos itens.",
+      "items": [
+        {
+          "number": 25,
+          "statement": "A habilitação e a reabilitação profissionais visam proporcionar aos beneficiários incapacitados, parcial ou totalmente, para o trabalho e às pessoas com deficiência os meios indicados para proporcionar o reingresso no mercado de trabalho e no contexto em que vivem, em caráter facultativo e independentemente de carência.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 26,
+          "statement": "O processo de habilitação e reabilitação profissional do beneficiário é descentralizado, funciona nas agências da previdência social (APS) e é conduzido por equipes multiprofissionais especializadas.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 27,
+          "statement": "A empresa com cem ou mais empregados é obrigada a preencher de 2% a 5% de seus cargos com beneficiários reabilitados ou pessoas com deficiência habilitadas, sendo a proporção obrigatória mínima de 5% no caso de empresa que tenha mais de mil empregados.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 28,
+          "statement": "Os aposentados com HIV/AIDS devem ser submetidos, a cada dois anos, à revisão realizada pela perícia médica federal para fins de manutenção da aposentadoria por incapacidade permanente.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 29,
+          "statement": "A aposentadoria por incapacidade permanente é o benefício devido ao segurado incapaz de exercer qualquer atividade laborativa e que não possa ser reabilitado em outra profissão, depois de cumprida a carência exigida, quando for o caso.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 30,
+          "statement": "Os benefícios de auxílio por incapacidade temporária sem prazo estimado de duração, concedidos ou restabelecidos por decisão judicial, deverão ser cessados em 180 dias contados da data de concessão ou de reativação do auxílio, caso o segurado não requeira a sua prorrogação no Instituto Nacional do Seguro Social (INSS).",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 31,
+          "statement": "A data de início do benefício de aposentadoria por incapacidade permanente é fixada na data da perícia que tenha definido a incapacidade permanente para benefícios precedidos de auxílio por incapacidade temporária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 32,
+          "statement": "A doença degenerativa e a inerente a grupo etário são consideradas doença do trabalho.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 33,
+          "statement": "O benefício do segurado que, durante o recebimento de auxílio por incapacidade temporária, retornar à atividade geradora do benefício e permanecer trabalhando será cancelado a partir da data do retorno. Benefícios Programados Raul é empregado de uma loja de roupas, para a qual exerce atividades remuneradas desde 15 de novembro de 2019, data da sua primeira filiação ao regime geral da previdência social (RGPS). Como é extremamente organizado, ele resolveu procurar uma agência do Instituto Nacional do Seguro Social (INSS) para informar-se sobre sua futura aposentadoria.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:004",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Considerando essa situação hipotética, julgue os itens a seguir, relativos à aposentaria programada.",
+      "items": [
+        {
+          "number": 34,
+          "statement": "Raul poderá fazer jus à aposentadoria programada desde que vincule carência, idade e tempo de contribuição exigidos pela legislação previdenciária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 35,
+          "statement": "Para a aposentadoria programada, para efeito de concessão dos benefícios previdenciários, Raul poderá contar como tempo de contribuição aquele sem efetiva contribuição (tempo de contribuição fictício).",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 36,
+          "statement": "No caso em apreço, preenchidos os requisitos para a aposentadoria programada, a renda mensal inicial (RMI) da aposentadoria deve ser calculada aplicando-se sobre o salário de benefício o percentual de 60%, com acréscimo de 2 pontos percentuais para cada ano de contribuição que exceder o tempo de 20 anos de contribuição. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 37,
+          "statement": "Raul terá direito ao benefício da aposentadoria programada desde que, cumprida a carência de 180 contribuições mensais, tenha, no mínimo, 65 anos de idade e, no mínimo, 20 anos de tempo de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 38,
+          "statement": "Em situações como a de Raul, devem ser computados como tempo de contribuição, para fins de benefícios no RGPS, os períodos correspondentes a atividades não vinculadas ao RGPS. Dora filiou-se ao regime geral da previdência social (RGPS) em 15/1/2020 como contribuinte individual. Ao completar 33 anos de idade, em 15/1/2022, ela foi contratada para exercer a atividade de magistério na escola de educação infantil X. Dora pretende lecionar por 20 anos. Após esse tempo, ela deseja continuar na escola X, atuando na coordenação pedagógica, por mais 5 anos. Tendo em vista essa situação hipotética, julgue os itens subsequentes, referentes à aposentadoria programada do professor à luz da legislação atual.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 39,
+          "statement": "O período em que Dora exercer atividade de coordenação pedagógica na escola X não será contado para fins de tempo de contribuição da aposentadoria programada do professor.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 40,
+          "statement": "Dora fará jus à aposentadoria programada do professor se concluir todo seu planejamento de carreira e desde que contabilize, como tempo de contribuição, o período anterior como contribuinte individual.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 41,
+          "statement": "Dora não poderá converter o tempo de serviço de magistério na educação infantil em tempo de serviço comum.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 42,
+          "statement": "Se seguir seu planejamento na escola X, desde que cumprida a carência exigida, Dora fará jus à concessão de aposentadoria programada do professor, uma vez que preencherá os requisitos cumulativos de idade e tempo de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 43,
+          "statement": "O cálculo da aposentadoria programada nessa situação será de 60% do salário de benefício, com acréscimo de 2 pontos percentuais para cada ano de contribuição que exceder o tempo de 15 anos de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 44,
+          "statement": "Na situação em apreço, a carência exigida para a aposentadoria programada do professor é de 120 contribuições mensais. Tiago, que completou 60 anos de idade, é contribuinte individual garimpeiro que trabalha em regime de economia familiar. Em 2023, ele cumpriu a carência exigida para a aposentadoria por idade do trabalhador rural, nos termos da legislação previdenciária. Com referência a essa situação hipotética, julgue os próximos itens, relativos à aposentadoria por idade do trabalhador rural.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 45,
+          "statement": "Nessa situação, o valor da aposentadoria por idade desse trabalhador deverá ser de 70% do salário de benefício, com acréscimo de 1% para cada ano de contribuição.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 46,
+          "statement": "Tiago é considerado trabalhador rural para fins de concessão de aposentadoria por idade do trabalhador rural, pois exerce atividade em regime de economia familiar. Ainda com relação à aposentadoria por idade do trabalhador rural, julgue os itens subsequentes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 47,
+          "statement": "Os trabalhadores rurais que não atendam às condições para a aposentadoria por idade do trabalhador rural, mas que satisfaçam a carência exigida, computando-se os períodos de contribuição sob outras categorias, inclusive urbanas, farão jus à aposentadoria híbrida ao completarem 65 anos, se homem, e 62 anos, se mulher.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 48,
+          "statement": "Para a aposentadoria por idade de trabalhador rural, deve ser considerada a perda da qualidade de segurado nos intervalos entre as atividades rurícolas. André, filiado ao regime geral da previdência social (RGPS) desde 15/2/2020, é empregado de uma empresa, na qual exerce, de maneira permanente, atividade especial definida em norma previdenciária, com efetiva exposição a agente químico prejudicial à saúde, conforme constatado por perícia médica oficial.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:005",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Considerando essa situação hipotética, julgue os itens seguintes, relativos à aposentadoria especial.",
+      "items": [
+        {
+          "number": 49,
+          "statement": "Na situação em apreço, para fins de concessão de aposentadoria especial, deverá ser considerado o período de atividade especial somado ao tempo comum de contribuição.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 50,
+          "statement": "Caso seja concedida aposentadoria especial a André, ele poderá retornar ao exercício de atividade que o exponha a agente prejudicial à saúde, nos termos da norma previdenciária, sem que cesse o seu benefício, desde que a atividade seja exercida em outra empresa.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 51,
+          "statement": "Cumprida a carência e comprovado o exercício de atividade com efetiva exposição a agente químico prejudicial à saúde, será concedida aposentadoria especial a André quando ele completar 58 anos de idade e tiver 20 anos de tempo de contribuição em atividade especial. Ainda com relação à aposentadoria especial, julgue os itens a seguir.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 52,
+          "statement": "Fazem jus à aposentadoria especial apenas o segurado empregado e o trabalhador avulso, observados os requisitos de acesso e carência.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 53,
+          "statement": "Para a concessão da aposentadoria especial, deve-se observar o perfil profissiográfico previdenciário (PPP), conforme o modelo do Instituto Nacional do Seguro Social (INSS), como documento histórico laboral do trabalhador.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 54,
+          "statement": "Para fazer jus à aposentadoria especial, é necessário comprovar o exercício de atividades com efetiva exposição a agentes químicos, físicos ou biológicos prejudiciais à saúde, observados os demais requisitos de acesso. Joaquim, empregado de um escritório de advocacia, atua como secretário. Considerado pessoa com deficiência leve, de acordo com a perícia médica, ele tem impedimentos de longo prazo de natureza física, os quais, em interação com diversas barreiras, podem obstruir sua participação plena e efetiva na sociedade em igualdade de condições com as demais pessoas. Com base nessa situação hipotética, julgue os itens que se seguem, que se referem à aposentadoria por tempo de contribuição e por idade do segurado com deficiência.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 55,
+          "statement": "Joaquim não poderá optar por qualquer outra espécie de aposentadoria do regime geral da previdência social (RGPS) que lhe seja mais vantajosa.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 56,
+          "statement": "Em casos como o de Joaquim, é possível a comprovação da deficiência, para fins de concessão de aposentadoria da pessoa com deficiência, por meio de prova exclusivamente testemunhal.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 57,
+          "statement": "Se Joaquim aposentar-se de acordo com as regras da Lei Complementar n.° 142/2013, que regulamenta a aposentadoria da pessoa com deficiência segurada do regime geral da previdência social (RGPS), não poderá permanecer na mesma atividade que exerce na condição de pessoa com deficiência ou desempenhar qualquer outra atividade.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 58,
+          "statement": "A critério do Instituto Nacional do Seguro Social (INSS), Joaquim deverá, a qualquer tempo, submeter-se à avaliação biopsicossocial. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022 Ainda com relação à aposentadoria por tempo de contribuição e por idade do segurado com deficiência, julgue os itens subsecutivos.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 59,
+          "statement": "Considera-se pessoa com deficiência aquela que possua impedimentos de longo prazo somente de natureza física.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 60,
+          "statement": "Reconhecer o grau de deficiência para efeito de concessão da aposentadoria da pessoa com deficiência é atribuição privativa da Perícia Médica Federal.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 61,
+          "statement": "Atendidos os requisitos de acesso, é possível a aposentadoria por idade ou por tempo de contribuição das pessoas com deficiência.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 62,
+          "statement": "É garantida a conversão do tempo de contribuição da pessoa com deficiência para fins de concessão da aposentadoria especial em condições que prejudiquem a saúde do trabalhador.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 63,
+          "statement": "A avaliação da deficiência para a aposentadoria será efetuada por meio de instrumento desenvolvido especificamente para esse fim, que poderá ser objeto de revalidação periódica. Benefícios por Encargos Familiares Mateus é pessoa física que se filiou ao regime geral de previdência social (RGPS) como segurado facultativo. Mateus, que desejava ser pai, adotou Jorge, de 8 anos de idade, com trânsito em julgado da decisão judicial de adoção em 13/2/2023. Com base nessa situação hipotética, julgue os itens a seguir sobre o benefício salário-maternidade.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 64,
+          "statement": "É devido o salário-maternidade a Mateus, na forma da legislação vigente, por motivo de adoção.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 65,
+          "statement": "Caso Mateus faleça durante o recebimento do salário-maternidade, será devido o pagamento do respectivo benefício ao cônjuge ou companheiro(a) sobrevivente, mesmo que este(a) não possua qualidade de segurado ou carência na data do fato gerador.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 66,
+          "statement": "Se os pais biológicos de Jorge tiverem recebido o salário-maternidade quando do nascimento da criança, Mateus não terá direito ao referido benefício.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 67,
+          "statement": "O salário-maternidade será devido a Mateus durante 120 dias, a contar de 13/2/2023. Ana Júlia, segurada empregada doméstica, está em gozo de auxílio por incapacidade temporária. Ela é casada com Pedro, segurado empregado de uma empresa de transportes. Ana e Pedro são segurados de baixa renda, nos termos da norma previdenciária. O casal possui dois filhos: Ricardo, de 15 anos de idade, e Fernanda, de 20 anos de idade, com invalidez comprovada mediante exame médico pericial realizado pela perícia médica federal.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:006",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Acerca dessa situação hipotética, julgue os itens que se seguem, relativos ao benefício salário-família.",
+      "items": [
+        {
+          "number": 68,
+          "statement": "Em caso de desemprego de Ana Júlia e Pedro, o direito ao salário-família cessa automaticamente.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 69,
+          "statement": "Ana Júlia não faz jus ao salário-família em relação a Fernanda, por já estar em gozo do auxílio por incapacidade temporária.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 70,
+          "statement": "Ana Júlia e Pedro não poderão receber conjuntamente o salário-família em relação a Fernanda.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 71,
+          "statement": "O valor da cota do salário-família por dependente deve corresponder àquele estabelecido pela portaria ministerial vigente no mês do pagamento (fato gerador).",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 72,
+          "statement": "Ana Júlia e Pedro têm direito ao salário-família em relação a Ricardo.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 73,
+          "statement": "Pedro faz jus ao salário-família em relação a Fernanda, desde que observe a carência de 10 contribuições mensais. Com relação ao abono anual, julgue os itens subsequentes.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 74,
+          "statement": "O abono anual corresponde ao valor da renda mensal do benefício no mês de dezembro ou no mês da alta ou da cessação do benefício, para o beneficiário que recebeu auxílio por incapacidade temporária, auxílio-acidente, aposentadoria, salário-maternidade, pensão por morte ou auxílio-reclusão, na forma da legislação previdenciária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 75,
+          "statement": "O beneficiário receberá sempre o valor cheio do abono anual, ainda que o pagamento de benefício tenha ocorrido por período inferior a 12 meses dentro do mesmo ano.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 76,
+          "statement": "O abono anual não se confunde com o 13.º salário ou com a gratificação natalina.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 77,
+          "statement": "O período igual ou superior a 15 dias, dentro do mês, deve ser considerado como mês integral para efeito de cálculo do abono anual. Péricles, que era segurado facultativo do regime geral de previdência social (RGPS), morreu em 2/2/2023, vítima de acidente de trânsito. Penha, mãe de Péricles, habilitou-se 60 dias após a morte de seu filho para o recebimento de pensão por morte. Marcela, sua companheira desde 2020, requereu o mesmo benefício 100 dias após o falecimento de Péricles.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:007",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que se refere a essa situação hipotética, julgue os itens seguintes sobre o benefício pensão por morte.",
+      "items": [
+        {
+          "number": 78,
+          "statement": "Havendo comprovação em processo judicial, a qualquer tempo, de simulação ou fraude na união estável, Marcela perderá o direito à pensão por morte, cabendo a cobrança dos valores recebidos indevidamente.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 79,
+          "statement": "A legislação aplicada à concessão do benefício de pensão por morte é aquela em vigor na data do requerimento do dependente, independentemente da data de óbito de Péricles.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 80,
+          "statement": "Ainda que comprove a qualidade de dependente na categoria de companheira de Péricles, Marcela não terá direito ao benefício, uma vez que não fez o requerimento em até 90 dias da data do óbito de Péricles. Ainda com relação ao benefício pensão por morte, julgue os itens subsecutivos.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 81,
+          "statement": "Atendidos os critérios discriminados na legislação previdenciária, a pensão por morte será devida ao conjunto dos dependentes do segurado do regime geral de previdência social (RGPS) que falecer, aposentado ou não.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 82,
+          "statement": "A concessão de pensão por morte é protelada pela falta de habilitação de outro possível dependente e qualquer habilitação que importe em exclusão ou inclusão de dependente produzirá efeito a contar da data do óbito. A respeito do auxílio-reclusão, julgue o próximo item.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 83,
+          "statement": "No caso de fuga do recluso ou regressão de regime, a análise de novo benefício deverá observar a data da nova captura ou regressão de regime. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022 Benefícios Assistenciais Decorrentes das Legislações Específicas Em 2022, João, pessoa com deficiência, apresentou requerimento para receber o benefício de prestação continuada da Lei Orgânica da Assistência Social (BPC/LOAS). Segundo informações do Cadastro Único (CadÚnico), João vive com sua esposa e um filho solteiro. Embora João e sua esposa não tenham renda, seu filho ganha mensalmente R$ 900,00 em rendimentos brutos provenientes do mercado informal. Em 2022, o salário mínimo era de R$ 1.212,00. Com base na situação hipotética apresentada, julgue os itens seguintes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 84,
+          "statement": "Na análise do requerimento de João, além da avaliação de renda e de deficiência, deverá ser verificado se ele atende aos seguintes critérios concessórios: não receber outro benefício no âmbito da seguridade social ou outro regime; possuir inscrição no CPF em situação regular; possuir inscrição no CadÚnico; ter nacionalidade brasileira; comprovar residência fixa; e apresentar a documentação necessária para identificação.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 85,
+          "statement": "O procedimento de análise do requerimento de João consiste na análise da renda e na avaliação da deficiência, composta pela avaliação social e pela avaliação médica.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 86,
+          "statement": "Como, para a avaliação de renda, é necessário utilizar as informações registradas no CadÚnico, de acordo com os critérios estabelecidos para a definição do grupo familiar no BPC/LOAS e as informações disponíveis no CadÚnico, conclui-se que João atende ao critério de renda estabelecido para o recebimento do benefício. Com relação ao benefício de prestação continuada da assistência social (BPC) e ao auxílio-inclusão, julgue os itens que se seguem.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 87,
+          "statement": "Considere que, durante um processo de revisão, tenha sido identificado que o beneficiário do BPC/LOAS também estava recebendo outro benefício no âmbito da seguridade social. Nesse caso, o procedimento a ser adotado será o bloqueio imediato do benefício, com comunicação ao referido beneficiário sobre os motivos do bloqueio, e a concessão do prazo de 30 dias para o interessado interpor recurso no Conselho de Recursos do Seguro Social (CRSS).",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 88,
+          "statement": "Ao requerer o auxílio-inclusão, o beneficiário deverá autorizar a suspensão do benefício de prestação continuada para pessoa com deficiência.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 89,
+          "statement": "Considere que um servidor do Instituto Nacional do Seguro Social (INSS) tenha constatado que um beneficiário do BPC/LOAS, enquadrado como pessoa com deficiência moderada, esteja acumulando o benefício com o exercício de atividade remunerada, cujo valor é de três salários mínimos, e esteja contribuindo para o regime geral de previdência social (RGPS). Considere, ainda, que, embora exerça a atividade remunerada, ele continue atendendo aos demais requisitos do BPC/LOAS. Nessa situação, o servidor deverá proceder com a concessão automática do auxílio-inclusão e notificar o beneficiário quanto à alteração do benefício e suas consequências administrativas.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:008",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens que se seguem, a respeito dos benefícios assistenciais decorrentes das legislações específicas.",
+      "items": [
+        {
+          "number": 90,
+          "statement": "O requerimento de pensão especial a pessoa com síndrome da talidomida enseja o agendamento de exame médico-pericial em junta do Instituto Nacional do Seguro Social (INSS), com o objetivo de constatar que a deformidade física do requerente é consequência do uso da talidomida.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 91,
+          "statement": "Tanto a pensão mensal vitalícia do seringueiro (soldados da borracha) quanto a pensão especial de ex-combatente possuem critérios de concessão idênticos, uma vez que se tratam de benefícios de caráter indenizatório relacionados ao mesmo evento histórico: a Segunda Guerra Mundial.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 92,
+          "statement": "A concessão de pensão especial mensal às vítimas de hemodiálise de Caruaru depende de atestado de óbito da vítima, tendo como indicativo de causa mortis a hepatite tóxica, por contaminação em processo de hemodiálise no Instituto de Doenças Renais, com sede na cidade de Caruaru, no período compreendido entre fevereiro e março de 1996, no estado de Pernambuco, comprovados com o respectivo prontuário médico.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 93,
+          "statement": "Os requerimentos de aposentadoria e pensão excepcional ao anistiado político e de pensão especial às pessoas atingidas pela hanseníase deverão ser realizados nos canais de atendimento do Instituto Nacional do Seguro Social (INSS), não sendo necessário o comparecimento presencial nas unidades do referido instituto, a não ser quando for solicitado.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 94,
+          "statement": "A concessão de pensão destinada a crianças com síndrome congênita do zika vírus será feita por meio de documentos médicos enviados pelo requerente que comprovem a microcefalia da criança em razão de contaminação da mãe por zika vírus, sendo dispensado, nesse caso, o exame médico pericial realizado pela perícia médica do Instituto Nacional do Seguro Social (INSS).",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 95,
+          "statement": "No caso de falecimento de um jogador, o auxílio especial mensal devido aos jogadores titulares e reservas das seleções brasileiras campeãs das copas mundiais será pago à esposa ou ao(à) companheira(o) e aos filhos menores de 21 anos de idade ou inválidos, desde que a invalidez, reconhecida pela perícia médica do Instituto Nacional do Seguro Social (INSS), tenha sido adquirida anteriormente à data em que completaram 21 anos.",
+          "official_answer": null,
+          "is_annulled": true,
+          "is_valid_for_simulado": false,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 96,
+          "statement": "A pensão especial destinada a crianças com síndrome congênita do zika vírus poderá ser concedida a crianças com microcefalia decorrente do zika vírus, mesmo que recebam indenizações pagas pelo governo em razão de ações na justiça pelo mesmo motivo. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:009",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:010",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens a seguir acerca do seguro-desemprego do pescador artesanal (seguro defeso).",
+      "items": [
+        {
+          "number": 97,
+          "statement": "Para concessão do seguro-defeso, o pescador artesanal deverá apresentar a documentação que comprove o recolhimento da contribuição previdenciária incidente sobre a comercialização do produto pescado relativa aos 12 últimos meses anteriores ao requerimento do seguro, ou desde o último período de defeso até o período atual, o que for menor.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 98,
+          "statement": "O benefício de seguro-desemprego para o pescador artesanal cessará caso seja constatado o desrespeito ao período de defeso ou a qualquer proibição estabelecida nas normas que regulamentam o defeso.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 99,
+          "statement": "Considere que um pescador profissional artesanal tenha formalizado requerimento de seguro-desemprego ao pescador artesanal em 2022. Considere, ainda, que, no referido ano, ele já havia recebido o benefício em razão de outro defeso, este, porém, relativo a espécie distinta. Nessa situação, o requerimento do benefício de seguro-defeso deverá ser deferido.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 100,
+          "statement": "O seguro defeso é benefício que consiste em auxílio financeiro temporário pago ao pescador artesanal, no valor de um salário mínimo, durante o período em que ele se encontrar impedido de exercer sua profissão. Processo Administrativo-Previdenciário e Fluxos de Análise",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:010",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:011",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens subsequentes, a respeito do Cadastro Nacional de Informações Sociais (CNIS).",
+      "items": [
+        {
+          "number": 101,
+          "statement": "Embora o segurado tenha o direito de requerer a correção de informações equivocadas, incompletas ou desatualizadas presentes no CNIS, mediante a apresentação de documentos comprobatórios, não são aceitos documentos gerados pelo eSocial para a correção de informações sobre remuneração.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 102,
+          "statement": "Ao analisar um requerimento de benefício, o servidor do Instituto Nacional do Seguro Social (INSS) deverá considerar os dados constantes no CNIS relativos a atividade, vínculos, remunerações e contribuições, os quais, por sua vez, devem ser considerados como prova de filiação à previdência social, tempo de contribuição e salários de contribuição.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 103,
+          "statement": "Antes de utilizar as informações contidas no CNIS para os sistemas de benefícios do Instituto Nacional do Seguro Social (INSS), o servidor do referido instituto deverá analisar esses dados, a fim de comprovar sua veracidade, caso estejam inconsistentes ou pendentes.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:011",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:012",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que diz respeito à certidão de tempo de contribuição (CTC), julgue os itens que se seguem.",
+      "items": [
+        {
+          "number": 104,
+          "statement": "Considere que um servidor público tenha solicitado ao Instituto Nacional do Seguro Social (INSS) a emissão de CTC. Considere, ainda, que o servidor do INSS responsável pela análise do requerimento tenha identificado períodos pendentes de comprovação, em débito ou vinculados a eventuais parcelamentos de débito. Nesse caso, esses períodos não poderão constar na CTC e não poderão ser aproveitados pelo regime próprio de previdência social (RPPS).",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 105,
+          "statement": "A CTC é o documento que comprova o recolhimento da contribuição previdenciária para o regime ao qual o trabalhador está filiado, sendo utilizado também para acerto no CNIS.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 106,
+          "statement": "O fracionamento é realizado de ofício e refere-se à operação de certificação dos períodos regulares para destinação ao regime próprio de previdência social (RPPS), excluindo-se os períodos pendentes de comprovação, em débito ou vinculados a eventuais parcelamentos de débito.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:012",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:013",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens seguintes, relativos à compensação previdenciária.",
+      "items": [
+        {
+          "number": 107,
+          "statement": "Para se obter o valor da compensação previdenciária, é necessário definir a renda mensal inicial (RMI) da compensação previdenciária e, em seguida, multiplicar esse valor pelo percentual de participação do regime de origem no tempo total de contribuição utilizado para concessão do benefício pelo regime instituidor. O valor obtido será o da compensação financeira (pró-rata inicial).",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 108,
+          "statement": "A compensação previdenciária é o acerto de contas de natureza financeira entre o regime geral de previdência social (RGPS) e os regimes próprios de previdência social (RPPS), bem como entre os regimes próprios, e refere-se ao tempo de contribuição utilizado na concessão de benefícios nos termos da contagem recíproca.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 109,
+          "statement": "No processamento da compensação previdenciária, quando os regimes próprios de previdência social (RPPS) for o regime instituidor, e o regime geral de previdência social (RGPS) for o regime de origem, a compensação deverá ser paga, apenas uma vez, no momento da concessão do benefício de aposentadoria.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:013",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:014",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "Julgue os itens subsequentes, a respeito dos procedimentos revisionais de benefícios.",
+      "items": [
+        {
+          "number": 110,
+          "statement": "Caso uma pessoa solicite a concessão de aposentadoria ao Instituto Nacional do Seguro Social (INSS) e, após a análise do órgão, seja concedido benefício com valor menor do que aquele que a pessoa esperava, ela poderá solicitar revisão do benefício, como a reanálise do valor do benefício ou a do tempo de contribuição considerado pelo INSS.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 111,
+          "statement": "O pedido de revisão poderá ter como objeto o reajuste do benefício recebido; nesse caso, ao processar a revisão de reajustamento, o Instituto Nacional do Seguro Social (INSS) deverá obrigatoriamente analisar o objeto do pedido e realizar a conferência geral dos demais critérios que embasaram a concessão.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 112,
+          "statement": "O requerente que tiver o seu pedido de benefício indeferido pelo Instituto Nacional do Seguro Social (INSS) somente poderá solicitar revisão se apresentar novos elementos que a justifique.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:014",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:015",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que diz respeito à instrução processual e ao recurso ao Conselho de Recursos da Previdência Social (CRPS), julgue os itens a seguir.",
+      "items": [
+        {
+          "number": 113,
+          "statement": "Ao receber o recurso ordinário, o Instituto Nacional do Seguro Social (INSS) deverá instruir novo processo administrativo, independentemente do processo de origem, ou seja, do processo administrativo previdenciário em que conste a decisão objeto do recurso, já que o requerimento de recurso ordinário constitui processo administrativo próprio.",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 114,
+          "statement": "As unidades de julgamento de recursos do CRPS são as juntas de recursos (JRs), responsáveis pelos julgamentos dos recursos especiais, e as câmaras de julgamento (CaJs), responsáveis pelos julgamentos dos recursos ordinários, conforme o Regimento Interno do CRPS (RICRPS).",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 115,
+          "statement": "Caso o requerente tenha o seu pedido indeferido pelo Instituto Nacional do Seguro Social (INSS), mesmo que parcialmente, ele terá o direito de interpor recurso contra a decisão — cuja competência para análise é do Conselho de Recursos da Previdência Social (CRPS) —, dando início, assim, à fase recursal. CEBRASPE – INSS – CURSO DE FORMAÇÃO – Edital: 2022",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:015",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    },
+    {
+      "id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+      "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+      "theme": null,
+      "theme_pending": true,
+      "guide_statement": "No que se refere a acordos internacionais de previdência social, julgue os próximos itens.",
+      "items": [
+        {
+          "number": 116,
+          "statement": "Totalização é o cômputo dos tempos de contribuição ou seguro cumpridos nos países acordantes e no Brasil, reconhecidos pela legislação dos países signatários do acordo internacional para fins de aquisição do direito a benefícios.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 117,
+          "statement": "Os benefícios que têm períodos de seguro ou cobertura no contexto dos acordos internacionais de previdência social são analisados e concluídos exclusivamente pelas agências da previdência social de atendimento acordos internacionais (APSAI), mesmo que no âmbito judicial, e devem seguir a legislação brasileira e as normas estabelecidas em cada acordo. Servidor como Educador Previdenciário Com relação ao Programa de Educação Previdenciária (PEP), julgue os itens que se seguem.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 118,
+          "statement": "O planejamento das ações educacionais compete à equipe do PEP nas agências da previdência social (APS).",
+          "official_answer": "E",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 119,
+          "statement": "Entre as diretrizes de processos internos constantes do planejamento estratégico do Instituto Nacional do Seguro Social (INSS), está a de incentivar a educação previdenciária.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        },
+        {
+          "number": 120,
+          "statement": "Promover ações de informação e orientação à sociedade sobre os produtos e os serviços do Instituto Nacional do Seguro Social (INSS) bem como formar disseminadores previdenciários em conjunto com entidades parceiras são orientações estratégicas para a evolução do PEP.",
+          "official_answer": "C",
+          "is_annulled": false,
+          "is_valid_for_simulado": true,
+          "source_exam_id": "cespe-cebraspe-2022-inss-curso-de-formacao",
+          "block_id": "cespe-cebraspe-2022-inss-curso-de-formacao:bloco:016",
+          "theme": null,
+          "theme_pending": true
+        }
+      ]
+    }
+  ]
+}
